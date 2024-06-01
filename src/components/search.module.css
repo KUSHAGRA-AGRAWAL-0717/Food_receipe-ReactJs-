@@ -1,11 +1,12 @@
 .searchContainer {
   margin: 20px auto;
+  background-color: #32cee2;
   width: 300px;
   position: relative;
 }
 .input {
-  border: none;
-  border-bottom: 1px solid #e3e4cd;
+  border: 2px dotted #9b59b6;
+  border-bottom: 1px solid #525608;
   padding: 10px 20px;
   width: 100%;
   outline: none;

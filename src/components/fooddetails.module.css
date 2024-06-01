@@ -4,6 +4,7 @@
     padding: 20px;
     box-shadow: 0 4px 8px rgb(0,0,0,0.3);
     border-radius: 10px;
+    border: 3px inset #1abc9c;
     font-family: Polysans,sans-serif;
     color: #393e46;
 }
@@ -26,7 +27,10 @@
 .recipeInstructions{
     padding: 0px;
     border-radius: 5px;
-    color: #adaab0;
+    color: #000000;
+    font-size: medium;
+    font-style: inherit;
+    font: bolder;
 }
 .recipeInstructions ol{
     margin-left: 0px;

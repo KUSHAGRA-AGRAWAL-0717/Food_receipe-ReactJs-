@@ -22,7 +22,8 @@ export default function Search({ foodData, setFoodData }) {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         type="text"
-      />
+        placeholder="search....."
+      ></input>
     </div>
   );
 }

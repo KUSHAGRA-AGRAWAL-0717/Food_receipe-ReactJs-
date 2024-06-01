@@ -1,3 +1,5 @@
 .parentContainer {
   display: flex;
+  border: 3px groove #f1c40f;
+  background-color: #90AFC5;
 }
